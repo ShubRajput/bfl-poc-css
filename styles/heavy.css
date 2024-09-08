@@ -1,0 +1,36 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 2em;
+    margin: 10px;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.large-box {
+    width: 100%;
+    height: 400px;
+    background-color: #ccc;
+    margin: 10px 0;
+}
+
+.repeated-class {
+    /* Repeat large number of styles to mimic heavy CSS */
+    background: #efefef;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+/* Add many more styles to make the file larger */
